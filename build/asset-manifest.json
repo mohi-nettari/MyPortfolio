@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.902d02ab.css",
+    "main.js": "/static/js/main.17c2f25a.js",
+    "static/js/787.21381dca.chunk.js": "/static/js/787.21381dca.chunk.js",
+    "static/media/1641761311833.png": "/static/media/1641761311833.242b6673db03b0c86571.png",
+    "static/media/1641515472439.png": "/static/media/1641515472439.f038ed51c40cc565a7ab.png",
+    "static/media/1641761290451.png": "/static/media/1641761290451.56f9b16c2e157cfe0bd5.png",
+    "static/media/1641761301810.png": "/static/media/1641761301810.ee1260a1f8ce74078ac9.png",
+    "static/media/1641761320217.png": "/static/media/1641761320217.2129f5d8d8a14f047ad8.png",
+    "static/media/Screenshot_2022-01-10-11-28-47-556_com.example.whatsapp.jpg": "/static/media/Screenshot_2022-01-10-11-28-47-556_com.example.whatsapp.4479d1689a2172c9d7dc.jpg",
+    "static/media/Screenshot_2022-01-10-11-03-18-003_com.codingstuff.notesapp.jpg": "/static/media/Screenshot_2022-01-10-11-03-18-003_com.codingstuff.notesapp.a928841244d367d63c4c.jpg",
+    "static/media/Screenshot_2022-01-10-11-28-20-588_com.example.whatsapp.jpg": "/static/media/Screenshot_2022-01-10-11-28-20-588_com.example.whatsapp.ff6d14890844ef520d6b.jpg",
+    "static/media/Screenshot_2022-01-10-11-02-34-077_com.codingstuff.notesapp.jpg": "/static/media/Screenshot_2022-01-10-11-02-34-077_com.codingstuff.notesapp.337dbc7d83a793109114.jpg",
+    "static/media/Screenshot_2022-01-10-11-28-17-375_com.example.whatsapp.jpg": "/static/media/Screenshot_2022-01-10-11-28-17-375_com.example.whatsapp.7722e1a853d4a053125a.jpg",
+    "static/media/Screenshot_2022-01-10-11-02-29-076_com.codingstuff.notesapp.jpg": "/static/media/Screenshot_2022-01-10-11-02-29-076_com.codingstuff.notesapp.b49c7a63059c253d58e1.jpg",
+    "static/media/Screenshot_2022-01-10-11-32-18-455_com.example.whatsapp.jpg": "/static/media/Screenshot_2022-01-10-11-32-18-455_com.example.whatsapp.06e003f8d6c7aec5fdeb.jpg",
+    "static/media/Screenshot_2022-01-10-11-02-45-501_com.codingstuff.notesapp.jpg": "/static/media/Screenshot_2022-01-10-11-02-45-501_com.codingstuff.notesapp.aac124a034579de5ceed.jpg",
+    "static/media/Cropped_20211014_141642.jpg": "/static/media/Cropped_20211014_141642.14bfe3d6e7e47bddc70f.jpg",
+    "static/media/--(image0).JPG": "/static/media/--(image0).51924efe426db0f576d5.JPG",
+    "index.html": "/index.html",
+    "main.902d02ab.css.map": "/static/css/main.902d02ab.css.map",
+    "main.17c2f25a.js.map": "/static/js/main.17c2f25a.js.map",
+    "787.21381dca.chunk.js.map": "/static/js/787.21381dca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.902d02ab.css",
+    "static/js/main.17c2f25a.js"
+  ]
+}
